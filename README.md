@@ -40,12 +40,4 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amr0Mohammed&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-</p>
 
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" />
-</p>
