@@ -15,12 +15,12 @@
 ---
 
 ### 📂 Active Labs & Investigations
-أقوم بتوثيق رحلتي في حل التحديات الأمنية داخل مستودع [**Labs**](./Labs).
+أقوم بتوثيق رحلتي في حل التحديات الأمنية داخل مستودع [**Labs**](https://github.com/Amr0Mohammed/Labs)
 
 | Investigation | Focus Area | Detailed Writeup |
 | :--- | :--- | :--- |
-| **Bandit Lvl 0-7** | File Discovery | [View Solution 🔍](../Labs/README.md) |
-| **Bandit Lvl 8-10** | Anomaly Detection | [View Solution 🔍](../Labs/README.md) |
+| **Bandit Lvl 0-7** | File Discovery | [View Solution 🔍]([../Labs](https://github.com/Amr0Mohammed/Labs/README.md) |
+| **Bandit Lvl 8-10** | Anomaly Detection | [View Solution 🔍]([../Labs](https://github.com/Amr0Mohammed/Labs)/README.md) |
 | **Future Labs** | Malware Analysis | ⏳ Coming Soon |
 
 ---
